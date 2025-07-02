@@ -10,7 +10,20 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020</p>
+<p align="left">
+🎮 Game Development
+
+🌐 Web Applications
+
+🖥️ Websites
+
+📱 Mobile Apps
+
+🎨 UI/UX Design
+
+🧠 3D Visualization
+
+💡 Making buttons feel important</p>
 
 ###
 
