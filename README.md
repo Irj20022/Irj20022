@@ -2,11 +2,13 @@
 
 ###
 
+<h2 align="left">About me</h2>
+
 <p align="left">I'm Isuru Jayawardana, a passionate Software Engineering undergraduate from Sri Lanka, currently focused on crafting intuitive digital experiences through full-stack development and UI/UX design. I enjoy building projects that blend technology and creativity - from responsive web apps and interactive 3D visualizations to educational games and design systems. I’m always exploring ways to improve user experience through design thinking and clean code.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">I'm Good at</h2>
 
 ###
 
