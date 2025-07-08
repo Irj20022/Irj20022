@@ -19,7 +19,7 @@
 
 ## 💼 Projects I'm Proud Of
 
-### 🌐 [LankaRooTours](https://github.com/Irj20022)  
+### 🌐 [LankaRooTours](https:lankarootours.com)  
 Travel website front-end designed with HTML/CSS/JavaScript — mobile-friendly and live-tested with real users.
 
 ### 🎮 Eldoria Quest  
