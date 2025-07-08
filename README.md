@@ -1,31 +1,52 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# 👋 Hi, I'm Isuru Jayawardana
 
-###
+🎓 Software Engineering undergraduate (University of Plymouth @ NSBM, 2022–2025)  
+💻 Passionate about building immersive digital experiences through code and design  
+🎨 Bridging full-stack development with user-centered UI/UX  
+🌍 Based in Homagama, Sri Lanka
 
-<h2 align="left">About me</h2>
+---
 
-<p align="left">I'm Isuru Jayawardana, a passionate Software Engineering undergraduate from Sri Lanka, currently focused on crafting intuitive digital experiences through full-stack development and UI/UX design. I enjoy building projects that blend technology and creativity - from responsive web apps and interactive 3D visualizations to educational games and design systems. I’m always exploring ways to improve user experience through design thinking and clean code.</p>
+## 🛠️ What I Do
+- 🎮 Game Development (Unity, C#)
+- 🌐 Web Applications (React, Node.js)
+- 🖥️ Websites (HTML, CSS, JavaScript)
+- 📱 Mobile Apps (Flutter, Dart)
+- 🎨 UI/UX Design (Figma, Photoshop)
+- 🧠 3D Visualization (Three.js, WebGL)
 
-###
+---
 
-<h2 align="left">I'm Good at</h2>
+## 💼 Projects I'm Proud Of
 
-###
+### 🌐 [LankaRooTours](https://github.com/Irj20022)  
+Travel website front-end designed with HTML/CSS/JavaScript — mobile-friendly and live-tested with real users.
 
-<p align="left">
-🎮 Game Development
+### 🎮 Eldoria Quest  
+Solo-developed educational 2D adventure game using Unity and C#, teaching moral values to preschoolers.
 
-🌐 Web Applications
+### 🏠 Ideal Abode  
+2D to 3D interior design web app — built with React + Three.js to let users visualize room layouts in real-time.
 
-🖥️ Websites
+---
 
-📱 Mobile Apps
+## 🎓 Certifications
+- Figma UI/UX Design Essentials – *Udemy*
+- Angular – The Complete Guide – *Udemy*
+- Flutter & Dart – *Udemy*
+- Java Masterclass – *Udemy*
 
-🎨 UI/UX Design
+---
 
-🧠 3D Visualization
+## 🤝 Let's Connect
+- 🔗 [LinkedIn](https://www.linkedin.com/in/isuru-jayawardana/)
+- 🎨 [Behance](https://www.behance.net/isurujayawardana)
+- 📧 isurujaya67@gmail.com
 
-💡 Making buttons feel important</p>
+---
+
+> 🚧 Currently polishing up my GitHub with new commits, cleaned projects, and a sprinkle of UI magic. Stay tuned!
+
 
 ###
 
